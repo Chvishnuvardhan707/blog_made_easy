@@ -3,4 +3,4 @@
 2.now go to folder django_project
 3.then python manage.py makemigrations
 4.python manage.py migrate
-5.python manage.py runserver
+5.python manage.py runserve
